@@ -44,13 +44,17 @@ I enjoy hosting projects on the cloud and understanding how things work behind t
 📂 My Projects
 🔹 Portfolio Hosted on S3
 A static portfolio website hosted fully on Amazon S3.
+
 🔗 Live S3 URL: http://srimahalakshmi-portfolio.s3-website.ap-south-1.amazonaws.com
+
 📦 Repo: https://github.com/Srimaha02/s3-portfolio-hosting
 
 
 🔹 Portfolio Delivered Through CloudFront
 Distributed worldwide using Amazon CloudFront with S3 as origin.
+
 🔗 Live CloudFront URL: https://d3csn95wctzwna.cloudfront.net
+
 📦 Repo: https://github.com/Srimaha02/cloudfront-portfolio-distribution
 
 
