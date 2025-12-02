@@ -68,11 +68,24 @@ Distributed worldwide using Amazon CloudFront with S3 as origin.
 -Cloud Foundations
 -Cloud Practitioner Quest (Completion)
 -Machine Learning (AWS Educate module)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS Educate](https://img.shields.io/badge/AWS_Educate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudFront CDN](https://img.shields.io/badge/CloudFront_CDN-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Sri’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Srimaha02&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srimaha02&layout=compact&theme=radical)
+
 
 📬 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-mahalakshmi-922901336)
+[![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:srim7854@gmail.com)
 
 Email: srim7854@gmail.com
 LinkedIn: https://www.linkedin.com/in/sri-mahalakshmi-922901336
 
 🌈 Fun Fact
 I love organising, designing, and learning something new every day.
+![Profile Views](https://komarev.com/ghpvc/?username=Srimaha02&color=blue&style=for-the-badge)
