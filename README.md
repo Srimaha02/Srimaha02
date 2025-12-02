@@ -1,8 +1,10 @@
 🧑‍💻 Hi, I'm R. Srimahalakshmi — Cloud Computing Enthusiast
 
+
 Welcome to my GitHub profile!
 I'm an IT undergraduate passionate about Cloud Computing, AWS, Web Deployment, and hands-on learning.
 I enjoy hosting projects on the cloud and understanding how things work behind the scenes.
+
 
 🚀 Skills & Tools
 ->☁️ Cloud
@@ -12,8 +14,8 @@ I enjoy hosting projects on the cloud and understanding how things work behind t
 ->CloudWatch
 ->Machine learning
 
-## 🛠️ Tech Stack & Tools
 
+## 🛠️ Tech Stack & Tools
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CloudFront](https://img.shields.io/badge/CloudFront-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -28,64 +30,49 @@ I enjoy hosting projects on the cloud and understanding how things work behind t
 
 
 👩‍💻 Programming
-
 -Python
 -Java
 -C
 
-🔧 Others
 
+🔧 Others
 -Networking (Basics)
 -Excel
 -PowerPoint
 
+
 📂 My Projects
 🔹 Portfolio Hosted on S3
-
 A static portfolio website hosted fully on Amazon S3.
 🔗 Live S3 URL: http://srimahalakshmi-portfolio.s3-website.ap-south-1.amazonaws.com
-
 📦 Repo: https://github.com/Srimaha02/s3-portfolio-hosting
 
-🔹 Portfolio Delivered Through CloudFront
 
+🔹 Portfolio Delivered Through CloudFront
 Distributed worldwide using Amazon CloudFront with S3 as origin.
 🔗 Live CloudFront URL: https://d3csn95wctzwna.cloudfront.net
-
 📦 Repo: https://github.com/Srimaha02/cloudfront-portfolio-distribution
 
-📘 Learning Journey
 
+📘 Learning Journey
 -AWS Cloud Basics
 -Real-world hosting on S3
 -CDN delivery using CloudFront
 -Linux fundamentals
 -GCP basics (beginner)
 
-🌟 Certifications
 
+🌟 Certifications
 -AWS Educate Courses
 -Cloud Foundations
 -Cloud Practitioner Quest (Completion)
 -Machine Learning (AWS Educate module)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS Educate](https://img.shields.io/badge/AWS_Educate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudFront CDN](https://img.shields.io/badge/CloudFront_CDN-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Sri’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Srimaha02&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srimaha02&layout=compact&theme=radical)
 
 
 📬 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-mahalakshmi-922901336)
-[![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:srim7854@gmail.com)
-
 Email: srim7854@gmail.com
 LinkedIn: https://www.linkedin.com/in/sri-mahalakshmi-922901336
 
+
 🌈 Fun Fact
 I love organising, designing, and learning something new every day.
-![Profile Views](https://komarev.com/ghpvc/?username=Srimaha02&color=blue&style=for-the-badge)
