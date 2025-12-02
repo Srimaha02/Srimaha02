@@ -7,6 +7,7 @@ I enjoy hosting projects on the cloud and understanding how things work behind t
 
 
 🚀 Skills & Tools
+
 ->☁️ Cloud
 ->AWS S3
 ->AWS CloudFront
@@ -16,6 +17,7 @@ I enjoy hosting projects on the cloud and understanding how things work behind t
 
 
 ## 🛠️ Tech Stack & Tools
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CloudFront](https://img.shields.io/badge/CloudFront-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -30,18 +32,21 @@ I enjoy hosting projects on the cloud and understanding how things work behind t
 
 
 👩‍💻 Programming
+
 -Python
 -Java
 -C
 
 
 🔧 Others
+
 -Networking (Basics)
 -Excel
 -PowerPoint
 
 
 📂 My Projects
+
 🔹 Portfolio Hosted on S3
 A static portfolio website hosted fully on Amazon S3.
 
@@ -59,6 +64,7 @@ Distributed worldwide using Amazon CloudFront with S3 as origin.
 
 
 📘 Learning Journey
+
 -AWS Cloud Basics
 -Real-world hosting on S3
 -CDN delivery using CloudFront
@@ -67,6 +73,7 @@ Distributed worldwide using Amazon CloudFront with S3 as origin.
 
 
 🌟 Certifications
+
 -AWS Educate Courses
 -Cloud Foundations
 -Cloud Practitioner Quest (Completion)
@@ -74,9 +81,11 @@ Distributed worldwide using Amazon CloudFront with S3 as origin.
 
 
 📬 Let’s Connect
+
 Email: srim7854@gmail.com
 LinkedIn: https://www.linkedin.com/in/sri-mahalakshmi-922901336
 
 
 🌈 Fun Fact
+
 I love organising, designing, and learning something new every day.
